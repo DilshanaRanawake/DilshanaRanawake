@@ -44,7 +44,6 @@
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 
 - **Databases**:
@@ -73,7 +72,7 @@
   ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) 
 
 - **Security**:
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white) 
+  Basic JWT Authentication.
 
 - **Other Tools**:
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
