@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently an undergraduate student pursuing a BSc. Honours in Computer Science at University of Kelaniya, Sri Lanka.
+- 🌱 I’m currently pursuing a BSc. Honours in Computer Science specializing in Artificial Intelligence at the University of Kelaniya, Sri Lanka.
 - 💬 I’m keen on exploring:
   - **Programming Languages**
   - **App Development**
