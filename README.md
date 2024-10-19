@@ -94,5 +94,5 @@
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilshanaRanawake&theme=solarized_dark)
 ---
 ## 🖊️ Cheers,
-**Dilshana**  
+**Dilshana Ranawake**  
 _Learning Enthusiast | Developer in Progress | Tech Explorer | Lifelong Learner_
