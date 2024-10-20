@@ -73,9 +73,6 @@
 - **Testing**:
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 
-- **APIs**:
-  ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-4A4A4A?style=flat&logo=api&logoColor=white) 
-  ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) 
 
 - **Security**:
   Basic JWT Authentication.
