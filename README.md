@@ -85,7 +85,6 @@
 ---
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilshanaRanawake&show_icons=true&count_private=true&hide=prs&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilshanaRanawake&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanaRanawake&layout=compact)
 
