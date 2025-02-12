@@ -1,5 +1,5 @@
 # Dilshana Ranawake
-## Computer Science | AI Enthusiast | Software Engineer
+## Computer Science | AI Enthusiast | Aspiring Software Engineer
 
 <div align="center">
     <h1>Hi there, 👋</h1>
