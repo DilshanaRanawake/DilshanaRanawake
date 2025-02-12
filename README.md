@@ -1,5 +1,8 @@
+# Dilshana Ranawake
+## Computer Science | AI Enthusiast | Software Engineer
+
 <div align="center">
-    <h1>Hi there, I'm Dilshana Ranawake! 👋</h1>
+    <h1>Hi there, 👋</h1>
     <h6>Welcome to my GitHub profile!</h6>
     <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" 
          style="width: 200px; height: 200px; border-radius: 50%;" 
