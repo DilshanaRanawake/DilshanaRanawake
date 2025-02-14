@@ -24,9 +24,12 @@
 - 📫 connect with me on
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dilshana-ranawake">
-    <img src="https://github.com/user-attachments/assets/df755825-a4b1-474f-b417-c68c89bd034b" alt="LinkedIn Logo" width="50">
-  </a>
+    <a href="https://www.linkedin.com/in/dilshana-ranawake">
+        <img src="https://github.com/user-attachments/assets/df755825-a4b1-474f-b417-c68c89bd034b" alt="LinkedIn Logo" width="50">
+    </a>
+    <a href="https://www.hackerrank.com/profile/shimmer001" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="50">
+    </a>
 </p>
 
 
