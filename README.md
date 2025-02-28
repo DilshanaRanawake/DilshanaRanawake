@@ -34,7 +34,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="50">
     </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-blue)](https://dilshanaranawake.github.io/#about)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-blue)](https://dilshanaranawake.github.io)
     
 </p>
 
